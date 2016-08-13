@@ -7,3 +7,5 @@ bubble-sort.c - 冒泡排序
 bucket-sort.c - 桶排序
 
 quick-sort.c - 快速排序
+
+binary-search.c - 二分查找
